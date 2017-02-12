@@ -55,9 +55,9 @@ hidden-badges:
 ## Classroom | Being Agile
 
 - [Lecture: Introduction][intro]
-- [Activity: Coin Flip Game][coin-game]
+- [Activity: Coin / Card Flip Game][coin-game]
 - [Lecture: Agile Manifesto][manifesto]
-- [Activity: Agile Mindset Workshop][agile-poster]
+- [Activity: Agile Mindset Discussion][self]
 - [Lecture: Team Charter][team-charter]
 - [Activity: Write a Team Charter for the course][charter-activity]
 
@@ -70,34 +70,16 @@ hidden-badges:
 [charter-activity]: activities/team-charter.html
 
 
-<br>
-**Additional Resources**
-
-- [Agile Manifesto (website)](http://agilemanifesto.org/)
-- [Comparing Project Management Methodologies (article)](https://www.wrike.com/project-management-guide/methodologies/)
-- [Agile Samurai (book)](http://librarysearch.auckland.ac.nz/UOA2_A:Combined_Local:uoa_alma21257524290002091)
-- [The Mythical Man Month (essay)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf)
-- [Making Sense of Minimum Viable Product (blog)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
-
-
-
-## Independent | Team Charter
-
-- [Activity: Write a Team Charter for your own project](independent-charter)
-
-[independent-charter]: activities/independent-charter.html
-
-
 ## Classroom | Agile Tools and Processes
 
 - [Lecture: Introduction to Scrum][scrum]
 - [Lecture: Scrum Roles][scrum-roles]
-- [Activity: Understanding Roles][roles-activity]
+- [Activity: Understanding Roles - Whiteboard][self]
 - [Lecture: User Stories][user-stories]
-- [Activity: Story Estimates][story-sizing]
 - [Lecture: Sprints][sprints]
-- [Activity: Scrum Card Game][scrum-cards]
+- [Activity: Work on your sprints][self]
 
+[self]: ../project-management/
 [scrum]: {{ site.slideshows }}/modules/project-management/scrum
 [scrum-roles]: {{ site.slideshows }}/modules/project-management/scrum-roles
 [roles-activity]: http://tastycupcakes.org/2013/02/the-herculean-doughnut/
@@ -106,22 +88,16 @@ hidden-badges:
 [sprints]: {{ site.slideshows }}/modules/project-management/sprints
 [scrum-cards]: http://tastycupcakes.org/2016/06/scrum-card-game/
 
-<br>
-**Additional Resources**
+## Independent | Team Charter
 
-- [Introduction to Scrum - 7 Minutes (video)](https://www.youtube.com/watch?v=9TycLR0TqFA)
-- [Everything About User Stories (article)](https://www.mountaingoatsoftware.com/agile/user-stories)
-- [Agile Chalk Talk: Story Points (video)](https://www.youtube.com/watch?v=90Xx8QVnXRc)
-- [How to run a sprint planning meeting (blog)](http://nomad8.com/how-to-run-a-sprint-planning-meeting-the-way-i-like-it/)
-- [Scrum in a 2-person Team (blog)](http://www.boost.co.nz/blog/2013/01/the-tiny-scrum/)
-- [It's Not Just Standing Up](http://martinfowler.com/articles/itsNotJustStandingUp.html)
+- [Activity: Write a Team Charter for your own project](independent-charter)
+
+[independent-charter]: activities/independent-charter.html
 
 
 ## Independent | Workflow Management
 
 - [Create Project Backlog](project-backlog)
-- [Lecture: Project tracking with Kanban (TODO)](#)
-- [Activity: Set up a Kanban Board (TODO)](#)
 
 
 ## Independent | Revision and Reflection
@@ -131,6 +107,23 @@ hidden-badges:
 
 [project-management-quiz]: activities/project-management-quiz.html
 [the-drucker-exercise]: activities/the-drucker-exercise.html
+
+
+
+<br>
+**Additional Resources**
+- [Agile Manifesto (website)](http://agilemanifesto.org/)
+- [Comparing Project Management Methodologies (article)](https://www.wrike.com/project-management-guide/methodologies/)
+- [Agile Samurai (book)](http://librarysearch.auckland.ac.nz/UOA2_A:Combined_Local:uoa_alma21257524290002091)
+- [The Mythical Man Month (essay)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf)
+- [Making Sense of Minimum Viable Product (blog)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+- [Introduction to Scrum - 7 Minutes (video)](https://www.youtube.com/watch?v=9TycLR0TqFA)
+- [Everything About User Stories (article)](https://www.mountaingoatsoftware.com/agile/user-stories)
+- [Agile Chalk Talk: Story Points (video)](https://www.youtube.com/watch?v=90Xx8QVnXRc)
+- [How to run a sprint planning meeting (blog)](http://nomad8.com/how-to-run-a-sprint-planning-meeting-the-way-i-like-it/)
+- [Scrum in a 2-person Team (blog)](http://www.boost.co.nz/blog/2013/01/the-tiny-scrum/)
+- [It's Not Just Standing Up](http://martinfowler.com/articles/itsNotJustStandingUp.html)
+
 
 
 <!--
@@ -144,19 +137,6 @@ hidden-badges:
 
 [pitching]: {{ site.slideshows }}/modules/project-management/pitches
 -->
-
-
-
-
-
-
-
-
-
-## Additional Resources
-
-
-- [Pomodoro Technique](http://pomodorotechnique.com/)
 
 {:.resources}
 
