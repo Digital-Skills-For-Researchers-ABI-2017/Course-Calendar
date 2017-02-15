@@ -33,6 +33,7 @@
      teachingResources: in-progress
      assessmentResources: started
 
+ - name: Bash Shell
    slug: shell
    status:
      weeklySchedule: started
@@ -50,6 +51,7 @@
 #     teachingResources: not-started
 #     assessmentResources: not-started
 
+ - name: Version Control with Git
    slug: version-control
    status:
      weeklySchedule: in-progress
