@@ -70,12 +70,13 @@ Getting started with R. Assigning values to variables, control structures and st
 
 Getting started with Python. Assigning values to variables, control structures and storing data.
 
-- [Activity: Getting Started ](http://swcarpentry.github.io/python-novice-inflammation/)
-- [Activity: Loading and Manipulating Data ](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
-- [Activity: Repeating Actions with Loops ](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
-- [Activity: Storing Multiple Values in Lists ](http://swcarpentry.github.io/python-novice-inflammation/03-lists/)
-- [Activity: Analysing Data from Multiple Files ](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
-- [Activity: Making Choices ](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
+- [Activity: Getting Started ](https://digital-skills-for-researchers-pd.github.io/python-short-lesson/)
+- [Activity: Loading and Manipulating Data ](https://digital-skills-for-researchers-pd.github.io/python-short-lesson/01-numpy/)
+- [Activity: Repeating Actions with Loops ](https://digital-skills-for-researchers-pd.github.io/python-short-lesson/02-loop/)
+- [Activity: Storing Multiple Values in Lists ](https://digital-skills-for-researchers-pd.github.io/python-short-lesson/03-lists/)
+- [Activity: Making Choices ](https://digital-skills-for-researchers-pd.github.io/python-short-lesson/05-cond/)
+- [Activity: Creating Functions ](https://digital-skills-for-researchers-pd.github.io/python-short-lesson/06-func/)
+- [Activity: Defensive Programming ](https://digital-skills-for-researchers-pd.github.io/python-short-lesson/08-defensive/)
 
 
 ## Classroom | Getting Started With Matlab
