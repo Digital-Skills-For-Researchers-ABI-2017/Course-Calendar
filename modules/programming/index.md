@@ -83,33 +83,13 @@ Getting started with Python. Assigning values to variables, control structures a
 
 Getting started with Matlab. Assigning values to variables, control structures and storing data.
 
-- [Activity: Getting Started ](http://swcarpentry.github.io/python-novice-inflammation/)
-- [Activity: Loading and Manipulating Data ](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
-- [Activity: Repeating Actions with Loops ](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
-- [Activity: Storing Multiple Values in Lists ](http://swcarpentry.github.io/python-novice-inflammation/03-lists/)
-- [Activity: Analysing Data from Multiple Files ](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
-- [Activity: Making Choices ](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
-
-
-
-
-
-
-
-
-
-
-
-## Classroom | Creating Functions and Good Development Practices
-
-Creating functions, Defensive Programming and Test Driven Development.
-
-- [Activity: Creating Functions ](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
-- [Activity: Errors and Exceptions ](http://swcarpentry.github.io/python-novice-inflammation/07-errors/)
-- [Activity: Defensive Programming ](http://swcarpentry.github.io/python-novice-inflammation/08-defensive/)
-- [Activity: Debugging ](http://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
-- [Activity: Command-Line Programs ](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
-
+- [Activity: Getting Started ](https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/)
+- [Activity: Loading and Manipulating Data ](https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/01-intro/)
+- [Activity: Writing Matlab Scripts ](https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/02-scripts/)
+- [Activity: Repeating With Loops ](https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/03-loops/)
+- [Activity: Making Choices ](https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/04-cond/)
+- [Activity: Creating Functions ](https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/05-func/)
+- [Activity: Defensive Programming ](https://digital-skills-for-researchers-pd.github.io/matlab-short-lesson/06-defensive/)
 
 
 
