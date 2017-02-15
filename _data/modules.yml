@@ -42,15 +42,6 @@
      teachingResources: not-started
      assessmentResources: not-started
 
-# - name: Programming
-#   slug: programming
-#   status:
-#     weeklySchedule: status
-#     assessmentGuide: not-started
-#     teachingGuide: not-started
-#     teachingResources: not-started
-#     assessmentResources: not-started
-
  - name: Version Control with Git
    slug: version-control
    status:
@@ -60,7 +51,15 @@
      teachingResources: in-progress
      assessmentResources: not-started
 
-
+ - name: Programming
+   slug: programming
+   status:
+     weeklySchedule: status
+     assessmentGuide: not-started
+     teachingGuide: not-started
+     teachingResources: not-started
+     assessmentResources: not-started
+     
 # - name: Reproducible Workflows
 #   slug: reproducible-workflows
 #   status:
