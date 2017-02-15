@@ -14,33 +14,32 @@
 #    teachingResources: in-progress
 #    assessmentResources: in-progress
 
-- name: Project Management
-  slug: project-management
-  status:
-    weeklySchedule: started
-    assessmentGuide: started
-    teachingGuide: not-started
-    teachingResources: not-started
-    assessmentResources: not-started
+ - name: Project Management
+   slug: project-management
+   status:
+     weeklySchedule: started
+     assessmentGuide: started
+     teachingGuide: not-started
+     teachingResources: not-started
+     assessmentResources: not-started
   
 
-# - name: Data Management
-#   slug: data-management
-#   status:
-#     weeklySchedule: not-started
-#     assessmentGuide: in-progress
-#     teachingGuide: not-started
-#     teachingResources: in-progress
-#     assessmentResources: started
+ - name: Data Management
+   slug: data-management
+   status:
+     weeklySchedule: not-started
+     assessmentGuide: in-progress
+     teachingGuide: not-started
+     teachingResources: in-progress
+     assessmentResources: started
 
-# - name: Shell
-#   slug: shell
-#   status:
-#     weeklySchedule: started
-#     assessmentGuide: started
-#     teachingGuide: not-started
-#     teachingResources: not-started
-#     assessmentResources: not-started
+   slug: shell
+   status:
+     weeklySchedule: started
+     assessmentGuide: started
+     teachingGuide: not-started
+     teachingResources: not-started
+     assessmentResources: not-started
 
 # - name: Programming
 #   slug: programming
@@ -51,14 +50,13 @@
 #     teachingResources: not-started
 #     assessmentResources: not-started
 
-# - name: Version Control
-#   slug: version-control
-#   status:
-#     weeklySchedule: in-progress
-#     assessmentGuide: in-progress
-#     teachingGuide: in-progress
-#     teachingResources: in-progress
-#     assessmentResources: not-started
+   slug: version-control
+   status:
+     weeklySchedule: in-progress
+     assessmentGuide: in-progress
+     teachingGuide: in-progress
+     teachingResources: in-progress
+     assessmentResources: not-started
 
 
 # - name: Reproducible Workflows

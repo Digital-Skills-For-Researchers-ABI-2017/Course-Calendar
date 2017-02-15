@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: Version Control
+title: Version Control with Git
 introduction: This module will introduce you to the workflows used with the popular version control system Git. The concepts learned in this module will be applied to the management of your personal project throughout the course.
 
 
@@ -70,7 +70,7 @@ lessons:
 Register and verify your GitHub account, ready for classroom use.
 
 - [Slideshow: Creating a GitHub Account][github-setup]
-- [Activity: Request to join course organisation (TODO)](#)
+- [Activity: Request to join course organisation](#)
 {:.resources}
 
 [github-setup]: {{ site.slideshows }}/modules/version-control/creating-a-github-account
@@ -85,27 +85,27 @@ Introduction to the basics of Version Control, Git and GitHub.
 **Schedule**
 
 - [Lecture: Version Control Introduction][intro]
-- [Activity: Install and Configure Git (Software Carpentry)][install]
+- [Activity: Install and Configure Git][install]
 - [Lecture: Repositories][repos]
-- [Activity: Create a Repository (Software Carpentry)][create-repo]
+- [Activity: Create a Repository][create-repo]
 - [Lecture: Git Workflow][wkflow-slides]
 - [Activity: Tactile Git Workflow][tactile-wkflow]
-- [Activity: Shell Git Workflow (Software Carpentry)][sc-wkflow]
+- [Activity: Shell Git Workflow][sc-wkflow]
 {:.resources}
 
 [intro]: {{site.slideshows}}/modules/version-control/introduction
-[install]: http://swcarpentry.github.io/git-novice/02-setup/
+[install]: https://digital-skills-for-researchers-pd.github.io/git-short-lesson/02-setup/
 [repos]: {{site.slideshows}}/modules/version-control/repositories
-[create-repo]: http://swcarpentry.github.io/git-novice/03-create/
+[create-repo]: https://digital-skills-for-researchers-pd.github.io/git-short-lesson/03-create/
 [wkflow-slides]: {{site.slideshows}}/modules/version-control/git-workflow
 [tactile-wkflow]: activities/tactile-git-workflow.html
-[sc-wkflow]: http://swcarpentry.github.io/git-novice/04-changes/
+[sc-wkflow]: https://digital-skills-for-researchers-pd.github.io/git-short-lesson/04-changes/
 
 
 **Resources**
 
-- [Version Control with Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/)
-- [Automated Version Control (Software Carpentry)](http://swcarpentry.github.io/git-novice/01-basics.html)
+- [Version Control with Git](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/)
+- [Automated Version Control](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/01-basics.html)
 {:.resources}
 
 
@@ -133,11 +133,11 @@ Advanced functionality and commands using Git.
 
 **Resources**
 
-- [Exploring History (Software Carpentry)](http://swcarpentry.github.io/git-novice/05-history/)
-- [Ignoring Things (Software Carpentry)](http://swcarpentry.github.io/git-novice/06-ignore/)
-- [Remotes in GitHub (Software Carpentry)](http://swcarpentry.github.io/git-novice/07-github/)
-- [Collaborating (Software Carpentry)](http://swcarpentry.github.io/git-novice/08-collab/)
-- [Conflicts (Software Carpentry)](http://swcarpentry.github.io/git-novice/09-conflict/)
+- [Exploring History](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/05-history/)
+- [Ignoring Things](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/06-ignore/)
+- [Remotes in GitHub](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/07-github/)
+- [Collaborating](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/08-collab/)
+- [Conflicts](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/09-conflict/)
 - [How to Backtrack (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-backtracking/exercises/backtracking-intro)
 - [Git Teamwork (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/remotes)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
@@ -178,9 +178,9 @@ _No task yet_
 
 
 - [Git Branching (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-branching/exercises/why-branch)
-- [Open Science (Software Carpentry)](http://swcarpentry.github.io/git-novice/10-open.html)
-- [Licencing (Software Carpentry)](http://swcarpentry.github.io/git-novice/11-licensing.html)
-- [Hosting (Software Carpentry)](http://swcarpentry.github.io/git-novice/12-hosting.html)
+- [Open Science](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/10-open.html)
+- [Licencing](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/11-licensing.html)
+- [Hosting](https://digital-skills-for-researchers-pd.github.io/git-short-lesson/12-hosting.html)
 {:.resources}
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: Shell
+title: Bash Shell 
 introduction: This module will introduce you to the benefits of using shell commands to perform data management and analysis as part of your workflow. The shell offers a powerful and succint way of accessing the core functionality of your computer system, and can be used to automate data processing. You interact with the shell via the command line, typing out tasks you want your computer to perform.
 
 learning-outcomes:
@@ -54,11 +54,11 @@ hidden-badges:
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
 - [Video: Introducing Ubuntu](https://www.youtube.com/watch?v=YToV2tR2sag)
-- [Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-intro/)
+- [Activity: Introducing the Shell](https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/01-intro/)
 - [Video: Directory Navigation](https://www.youtube.com/watch?v=ZitCUet8ZOY)
-- [Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-filedir/)
+- [Activity: Files and Directories](https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/02-filedir/)
 - [Video: Create and Delete Files and Dircetories](https://www.youtube.com/watch?v=PH9rUN9fqdw)
-- [Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-create/)
+- [Activity: Creating Things](https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/03-create/)
 
 
 
@@ -68,10 +68,10 @@ An introduction to the command line - how to navigate directories and create, mo
 
 How to automate the processing of data with the shell.  
 
-- [Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
-- [Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-loop/)
-- [Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-script/)
-- [Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/07-find/)
+- [Activity: Pipes and Filters](https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/04-pipefilter/)
+- [Activity: Loops](https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/05-loop/)
+- [Activity: Shell Scripts](https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/06-script/)
+- [Activity: Finding Things](https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/07-find/)
 
 
 
@@ -92,16 +92,6 @@ Complete this game thingy in your own time to practice commands.
 
 
 
-
-
-## Group | Stats
-
-Idea: gather stats on your project using commands you've learned. Document the command and the output of the command. Compose a script that outputs these current stats for you project.
-
-This Hacky Hour should be used to start managing and organising your data using the skills and concepts you learnt in the Data Management module, using the command line where possible. 
-
-- [Sample Data (TODO)](#)
-- [Instructions (TODO)](#)
 
 
 
