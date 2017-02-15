@@ -3,13 +3,13 @@ layout: default
 
 title: Programming
 
-introduction: This module will introduce you to programming using Python, a popular language for use in scientific computing. There are many code libraries built on top of Python, allowing you to extend its functionality for a wide range of purposes.  The skills you develop in this module will also be relevant in any other programming languages you may use in future.
+introduction: This module will introduce you to programming using R, Python or Matlab, popular languages used in scientific computing. There are many code libraries built on top of R, Python and Matlab, allowing you to extend its functionality for a wide range of purposes.  The skills you develop in this module will also be relevant in any other programming languages you may use in future.
 
 learning-outcomes:
 
-  - Understand and use basic control structures in Python
-  - Create simple Python programs using named variables and control structures
-  - Debug and create tests for basic Python programs.
+  - Understand and use basic control structures in R, Python or Matlab
+  - Create simple R, Python or Matlab programs using named variables and control structures
+  - Debug and create tests for basic R, Python or Matlab programs.
   - Understand why testing is used in software development. Write unit tests for functions.
 
 badges:
@@ -53,18 +53,6 @@ hidden-badges:
 
   
 ---
-
-
-## Independent | Use Python
-
-
-Learn how to create and run Python files.
-
-- [Tutorial (TODO)](#)
-
-
-
-
 
 
 ## Classroom | Getting Started With R
