@@ -22,12 +22,28 @@ Learn, Practise, Collaborate, Engage, Communicate
 * Cursing at computers is OK, cursing at people NO
 * Slack is not for Trolling
 * Commiting three weeks of time to the course
-
+* Give cake when cake is due
+* Make cake in real life at least once
 ## Communication Agreement
 * We communicate thru [Slack](https://digital-skills-2017.slack.com)
 * People check Slack atleast once a day
 * Let us know when you are late/absent in [general](https://digital-skills-2017.slack.com/messages/general/) channel on Slack
 
 # Project Team
--- TODO --
+Fabiana
+Anthony
+Manish
+Neil
+Dion Henare
+Lisa Hamm
+Rashika Karunasinghe
+Shuqi Edward Wang
+Matias Kinzurik
+Diksha Sharma
+Niha Phukan
+Ali A Razzak 
+Eric Rosentreter 
+Tristan Webb
+Kishan Mistry
+Jonathan Liu 
 
