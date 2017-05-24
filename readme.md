@@ -1,6 +1,6 @@
 # Digital Skills for Researchers: Coursebook
 
-The live version of this coursebook can be viewed [here](http://digital-skills-for-researchers-pd.github.io/Course-Calendar/)
+The live version of this coursebook can be viewed [here](http://digital-skills-for-researchers-abi-2017.github.io/Course-Calendar/)
 
 
 
