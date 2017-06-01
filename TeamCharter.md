@@ -15,6 +15,7 @@ Learn, Practise, Collaborate, Engage, Communicate
 
 # Team Agreement
 ## Behavioural Agreement
+* We turn up at 9am and let the team know through slack if we can't
 * UoA Code of Conduct
 * Safe Discussions
 * No question is STUPID neither is the person asking it
@@ -30,20 +31,21 @@ Learn, Practise, Collaborate, Engage, Communicate
 * Let us know when you are late/absent in [general](https://digital-skills-2017.slack.com/messages/general/) channel on Slack
 
 # Project Team
-Fabiana
-Anthony
-Manish
-Neil
-Dion Henare
-Lisa Hamm
-Rashika Karunasinghe
-Shuqi Edward Wang
-Matias Kinzurik
-Diksha Sharma
-Niha Phukan
-Ali A Razzak 
-Eric Rosentreter 
-Tristan Webb
-Kishan Mistry
-Jonathan Liu 
+Fabiana, 
+Anthony, 
+Luca Parisi, 
+Nurul (Izza) Ismail, 
+Win Min Tun, 
+Toby Jackson, 
+Dewan Sarwar, 
+Emma Ordono, 
+Zay Yar Win, 
+Amir Rastar, 
+Vicky Wang, 
+Hari Kumar, 
+Geoff Handsfield, 
+Jason Turuwhenua, 
+Megan Guidry, 
+Jenny Kruger, 
+Amir HajiRassouliha
 
